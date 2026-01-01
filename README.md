@@ -7,7 +7,7 @@ This project demonstrates practical skills in building AI-powered desktop applic
 
 ---
 
-## ✨ Features
+##  Features
 
 -  Push-to-Talk Voice Input  
 -  Microphone Access & Audio Recording  
@@ -48,9 +48,7 @@ src-tauri/           → Native Tauri configuration
 
 ---
 
-## 🔐 API Key Security
-
-The Deepgram API key is **not committed**.
+##  API Key Security
 
 Example `.env` file (ignored by Git):
 
@@ -71,8 +69,7 @@ Follow the steps below to clone and run the application on your local machine.
 git clone https://github.com/aartipandita51-cell/voice-to-text-tauri.git
 cd voice-to-text-tauri
 
----
-
+```
 ##  Running the App
 
 ```bash
