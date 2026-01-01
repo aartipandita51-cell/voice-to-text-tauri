@@ -18,7 +18,7 @@ This project demonstrates practical skills in building AI-powered desktop applic
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Tauri** – Cross-platform desktop framework  
 - **React + TypeScript** – Frontend UI  
@@ -28,7 +28,7 @@ This project demonstrates practical skills in building AI-powered desktop applic
 
 ---
 
-## 🏗 Architecture Overview
+##  Architecture Overview
 
 ```
 src/
@@ -60,11 +60,12 @@ DEEPGRAM_API_KEY=your_deepgram_api_key_here
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 Follow the steps below to clone and run the application on your local machine.
+---
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/aartipandita51-cell/voice-to-text-tauri.git
